@@ -1,0 +1,10 @@
+{
+  "TaskName": "Movie",
+  "SamplingFrequency": 10.00066240881447,
+  "NIRSChannelCount": 3684,
+  "NIRSSourceOptodeCount": 96,
+  "NIRSDetectorOptodeCount": 92,
+  "RecordingDuration": 538.9,
+  "TaskOnset": 30,
+  "TaskDuration": 643
+}

@@ -1,6 +1,2 @@
-1.0.0 2023-03-21
-	- dataset creation.
-1.1.0
-	- updated SNIRF files to increase compatibility
-	- updated event .tsv files with more accurate duration for movie
-	- more informative README
+1.0.0
+	- new dataset creation
