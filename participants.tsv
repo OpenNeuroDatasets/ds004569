@@ -1,12 +1,12 @@
 participant_id	age	sex	race	handedness	english_native
-sub-01	25	F	W	unknown	unknown
+sub-01	25	F	W	n/a	unknown
 sub-02	25	F	W	R	Y
-sub-03	33	F	W	unknown	unknown
-sub-04	25	M	W	unknown	unknown
+sub-03	33	F	W	n/a	unknown
+sub-04	25	M	W	n/a	unknown
 sub-05	25	F	W	R	Y
 sub-06	24	M	W	R	Y
-sub-07	18	F	W	unknown	unknown
-sub-08	29	M	W	unknown	unknown
+sub-07	18	F	W	n/a	unknown
+sub-08	29	M	W	n/a	unknown
 sub-09	27	F	W	R	Y
 sub-10	29	M	W	R	Y
 sub-11	38	M	W	R	Y
